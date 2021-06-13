@@ -1,0 +1,19 @@
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+#namesget {
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#srchName {
+    margin-right: 20px;
+}
+#srchLbl {
+    font-style: oblique;
+}
+html {
+    background-color: aqua;
+}
